@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
 //    public void sound1(View view) {
 //        mySound1.start();
 //    }

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "866173474602",
+    "firebase_url": "https://soundboard-aac3f.firebaseio.com",
+    "project_id": "soundboard-aac3f",
+    "storage_bucket": "soundboard-aac3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866173474602:android:cde67365e2af7288",
+        "android_client_info": {
+          "package_name": "com.example.soundboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866173474602-sak9ig4ev9gavb418j98328k1mito7um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soundboard",
+            "certificate_hash": "d0b65ae04948aa1cd2aa0edca3db5e14493c79e6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuiwxvPujaTzv7NWXcB-6D1uteIvlfya0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866173474602-ilq78abclskhe43qns8o14rb3froij8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

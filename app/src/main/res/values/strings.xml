@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Summon Phil</string>
+    <string name="bullshit_button">Bull Shit</string>
+    <string name="welcome">Welcome to the summon phil app</string>
+    <string name="description">To summon phil press the phil button</string>
+</resources>
